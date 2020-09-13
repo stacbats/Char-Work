@@ -1,0 +1,9 @@
+.label ScrollLine=$c045
+.label Frames=$c143
+.label FillChar=$c015
+.label StartScroll=$c00d
+.label exit=$c053
+.label ScanLine=$c030
+.label Main=$c000
+.label SameScanLine=$c037
+.label ScrollText=$c054

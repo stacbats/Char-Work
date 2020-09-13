@@ -1,0 +1,9 @@
+al C:c045 .ScrollLine
+al C:c00d .StartScroll
+al C:c053 .exit
+al C:c143 .Frames
+al C:c030 .ScanLine
+al C:c015 .FillChar
+al C:c000 .Main
+al C:c037 .SameScanLine
+al C:c054 .ScrollText
